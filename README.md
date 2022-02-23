@@ -1,5 +1,7 @@
 This repository website is created for Tunas Bertumbuh, a non-profit organization.
 
+This website is Single Page Application and using REST API
+
 Backend using Laravel 8.40 framework and frontend using Vuejs 3
 
 UI template using AdminLte v3.1.0, Bootstrap v4.6.0
